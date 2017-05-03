@@ -1,6 +1,6 @@
 jQuery(document).ready(function($) {
 	"use strict";
-	
+	var CMSOptions = {"menu_sticky":"1","back_to_top":"1"};
 	/* window */
 	var window_width, window_height, scroll_top;
 	
